@@ -1,5 +1,5 @@
 # ensemble_v11<br>
-fragmenteded string texture generator for norns<br>
+fragmented string texture generator for monome norns<br>
 <p align="center">
   <img src="ensemble-logo.svg" width="360">
 </p>
